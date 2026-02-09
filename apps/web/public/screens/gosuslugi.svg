@@ -1,0 +1,13 @@
+﻿<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="640" rx="36" fill="#e9f2ff"/>
+  <rect x="24" y="40" width="312" height="560" rx="28" fill="#ffffff" stroke="#cfd8ea" stroke-width="4"/>
+  <rect x="40" y="60" width="280" height="50" rx="16" fill="#2f5f9e"/>
+  <text x="60" y="92" font-size="18" font-family="Rubik, sans-serif" fill="#ffffff">Госуслуги</text>
+  <rect x="60" y="150" width="240" height="40" rx="12" fill="#f2f5fb"/>
+  <rect x="60" y="200" width="240" height="40" rx="12" fill="#f2f5fb"/>
+  <rect x="60" y="280" width="240" height="140" rx="18" fill="#f7f9ff"/>
+  <rect x="200" y="460" width="120" height="40" rx="12" fill="#2f5f9e"/>
+  <text x="214" y="486" font-size="14" font-family="Rubik, sans-serif" fill="#ffffff">Запись</text>
+  <rect x="40" y="520" width="280" height="50" rx="18" fill="#f2f5fb"/>
+  <text x="60" y="550" font-size="14" font-family="Rubik, sans-serif" fill="#2f5f9e">Свидетельство</text>
+</svg>
